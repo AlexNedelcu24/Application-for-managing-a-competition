@@ -1,0 +1,6 @@
+G:\An 2 sem 2\MPP\teme\c#\concurs_copii2\model\bin\Debug\model.dll
+G:\An 2 sem 2\MPP\teme\c#\concurs_copii2\model\bin\Debug\model.pdb
+G:\An 2 sem 2\MPP\teme\c#\concurs_copii2\model\obj\Debug\model.csproj.AssemblyReference.cache
+G:\An 2 sem 2\MPP\teme\c#\concurs_copii2\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+G:\An 2 sem 2\MPP\teme\c#\concurs_copii2\model\obj\Debug\model.dll
+G:\An 2 sem 2\MPP\teme\c#\concurs_copii2\model\obj\Debug\model.pdb
